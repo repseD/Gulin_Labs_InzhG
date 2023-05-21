@@ -1,0 +1,129 @@
+﻿  billboard_list.cpp
+  billboard_technique.cpp
+  camera.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\camera.cpp(46,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\camera.cpp(50,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\camera.cpp(57,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\camera.cpp(61,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\camera.cpp(65,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  glut_backend.cpp
+  lighting_technique.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\lighting_technique.cpp(430,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(207,15): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(186): message : во время компиляции функции-члена класс шаблон "void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)"
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(435): message : выполняется компиляция ссылки на экземпляр шаблон функции "void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)"
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(107): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "aiQuaterniont<float>"
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(208,14): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(209,61): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(210,33): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(93,13): warning C4244: return: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(92): message : во время компиляции функции-члена класс шаблон "TReal aiVector3t<TReal>::Length(void) const"
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(98): message : выполняется компиляция ссылки на экземпляр шаблон функции "TReal aiVector3t<TReal>::Length(void) const"
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(142): message : во время компиляции функции-члена класс шаблон "bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const"
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const"
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\types.h(150): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "aiVector3t<float>"
+  math_3d.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(43,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(44,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(74,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(74,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(75,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(75,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(76,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(76,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\math_3d.cpp(124,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  mesh.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\mesh.cpp(48,32): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(207,15): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(186): message : во время компиляции функции-члена класс шаблон "void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)"
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(435): message : выполняется компиляция ссылки на экземпляр шаблон функции "void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)"
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(107): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "aiQuaterniont<float>"
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(208,14): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(209,61): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(210,33): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(93,13): warning C4244: return: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(92): message : во время компиляции функции-члена класс шаблон "TReal aiVector3t<TReal>::Length(void) const"
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(98): message : выполняется компиляция ссылки на экземпляр шаблон функции "TReal aiVector3t<TReal>::Length(void) const"
+          with
+          [
+              TReal=float
+          ]
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(142): message : во время компиляции функции-члена класс шаблон "bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const"
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const"
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\packages\Assimp.3.0.0\build\native\include\assimp\types.h(150): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "aiVector3t<float>"
+  pipeline.cpp
+  stb_image.cpp
+  technique.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\technique.cpp(97,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  texture.cpp
+  Создание кода...
+  Project.vcxproj -> D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Gulin_Labs_InzhG\Lab5\Project\x64\Debug\Project.exe

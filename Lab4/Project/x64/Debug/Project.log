@@ -1,0 +1,32 @@
+﻿  camera.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\camera.cpp(48,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\camera.cpp(52,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\camera.cpp(59,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\camera.cpp(63,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\camera.cpp(70,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  glut_backend.cpp
+  lighting_technique.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\util.h(47,1): warning C4005: INVALID_UNIFORM_LOCATION: изменение макроопределения
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\technique.h(6): message : см. предыдущее определение "INVALID_UNIFORM_LOCATION"
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\lighting_technique.cpp(383,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\util.h(47,1): warning C4005: INVALID_UNIFORM_LOCATION: изменение макроопределения
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\technique.h(6): message : см. предыдущее определение "INVALID_UNIFORM_LOCATION"
+  math_3d.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(28,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(29,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(60,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(60,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(61,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(61,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(62,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(62,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\math_3d.cpp(112,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  pipeline.cpp
+  stb_image.cpp
+  technique.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\technique.cpp(54,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  texture.cpp
+  util.cpp
+  Создание кода...
+  Project.vcxproj -> D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Лабораторная работа 4\Graphics---Lab4-main\Graphics---Lab4-main\Project\x64\Debug\Project.exe

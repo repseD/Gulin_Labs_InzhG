@@ -1,0 +1,32 @@
+﻿  camera.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\camera.cpp(46,33): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\camera.cpp(50,33): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\camera.cpp(57,24): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\camera.cpp(61,32): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\camera.cpp(65,17): error C2065: M_PI: необъявленный идентификатор
+  glut_backend.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\glut_backend.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  lighting_technique.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\lighting_technique.cpp(362,58): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\lighting_technique.cpp(362,86): error C2198: PFNGLUNIFORM1FPROC: слишком мало аргументов для вызова
+  main.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\texture.h(7,10): fatal  error C1083: Не удается открыть файл включение: ImageMagick/Magick++.h: No such file or directory,
+  math_3d.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(43,37): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(43,17): error C2737: "SinHalfAngle": необходимо инициализировать объект const
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(44,37): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(44,17): error C2737: "CosHalfAngle": необходимо инициализировать объект const
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(74,21): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(74,17): error C2737: "x": необходимо инициализировать объект const
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(75,21): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(75,17): error C2737: "y": необходимо инициализировать объект const
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(76,21): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(76,17): error C2737: "z": необходимо инициализировать объект const
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(124,35): error C2065: M_PI: необъявленный идентификатор
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\math_3d.cpp(124,17): error C2737: "tanHalfFOV": необходимо инициализировать объект const
+  pipeline.cpp
+  technique.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\technique.cpp(47,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  texture.cpp
+D:\Documents\Высшее - УГАТУ\2 курс\4 семестр\Инженерная графика\Все по лабе 3\tutorial21\texture.h(7,10): fatal  error C1083: Не удается открыть файл включение: ImageMagick/Magick++.h: No such file or directory,
+  Создание кода...
